@@ -1,6 +1,15 @@
 # QTW_7773_CS6
 smu 7333 Dr. R Slater Case Study 6 - Jessica McPhaul
 
+
+------------------------------
+DOCX - has graphs and appendix.
+pdf- doesnt have appendix
+notebook is asis from colab
+python is as is fro colab
+---------------------------
+
+
 # Particle Detection Using Dense Neural Networks
 
 This project demonstrates a binary classification task using a dense neural network to predict the detection of a new particle based on a large scientific dataset.
